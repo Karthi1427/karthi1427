@@ -2,6 +2,11 @@
 
 A passionate developer who loves building things across the full stack.
 
+## Currently
+
+- 📱 Building mobile apps with **React Native** and **Expo**
+- 🌱 Learning by shipping real projects with my team
+
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -9,6 +14,8 @@ A passionate developer who loves building things across the full stack.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
