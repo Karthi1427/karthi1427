@@ -1,4 +1,4 @@
-# Hey, I'm Karthi1427
+# Hey, I'm Karthik 👋
 
 A passionate developer who loves building things across the full stack.
 
